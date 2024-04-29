@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chong Zhang.
-- I’m interested in efficient learning of robust robot locomotion. I’m currently with ETH RSL.  
+- I’m interested in legged locomotion and navigation. I’m currently with ETH RSL.  
 - 📫 You can reach me at chozhang@ethz.ch. You can visit my page https://zita-ch.github.io/. 
 
 <!---

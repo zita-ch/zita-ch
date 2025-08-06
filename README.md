@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Chong Zhang.
-- I’m interested in legged locomotion and navigation. I’m currently with ETH RSL.  
+- 👋 Hi, I’m Chong Zhang.  
 - 📫 You can reach me at chozhang@ethz.ch. You can visit my page https://zita-ch.github.io/. 
 
 <!---
